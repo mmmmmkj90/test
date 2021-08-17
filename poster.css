@@ -1,0 +1,13 @@
+div {
+  width:960px;
+  height:540px;
+  position: absolute; left: 20%;
+  background: url(off.png) center center no-repeat;
+  background-repeat: no-repeat;
+  text-decoration:none;
+  float:left;
+}
+
+.visited {
+  background: url(on.png) center center no-repeat;
+}
